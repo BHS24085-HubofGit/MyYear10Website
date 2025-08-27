@@ -46,6 +46,7 @@ img {
 .topic-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    background-color: rgb(239, 227, 212);
     gap: 6em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
@@ -73,8 +74,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
-    color: white;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 208, 0);
     text-align: right;
     padding: 3em 3em;
 }
